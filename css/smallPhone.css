@@ -1,0 +1,8 @@
+.navbar ul li {
+    padding-left: 5px;
+    font-size: 0.6rem;
+}
+
+.images-div div img {
+    width: 150px;
+}

@@ -1,0 +1,79 @@
+.navbar {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar ul {
+    padding-left: 0px;
+}
+
+.first-list {
+    padding-left: 0px;
+}
+
+.get-started {
+    margin-left: 0px;
+}
+
+.support-container-2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.support-container-2 p {
+    margin-left: 0px;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.woocommerce-ad-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.woocommerce-ad-container h1 {
+    margin-left: 0px;
+}
+
+.main-container, .main-container2 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 80%;
+}
+
+.main-container div, .main-container2 img {
+    margin-left: 0px;
+    margin-top: 20px;
+    width: 80%;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+.header div {
+    width: 800px;
+    margin-top: 20px;
+}
+
+.images-div {
+    margin-left: 0px;
+    width: 800px;
+}
+
+.comments-container {
+    margin-top: 20px;
+}

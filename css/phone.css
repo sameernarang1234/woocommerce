@@ -1,0 +1,42 @@
+.header, .header div {
+    width: 90%;
+}
+
+.second-img-div {
+    padding-left: 0px;
+}
+
+.main-container {
+    width: 90%;
+}
+
+.main-container2 {
+    width: 90%;
+}
+
+.main-container img, .main-container2 img {
+    width: 300px;
+}
+
+.main-container div, .main-container2 div {
+    width: 70%;
+}
+
+.navbar ul li {
+    padding-left: 15px;
+    font-size: 0.8rem;
+}
+
+.images-div div img {
+    width: 200px;
+}
+
+.support-container {
+    width: 90%;
+}
+
+.woocommerce-ad-container, .woocommerce-ad-container h1 {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
